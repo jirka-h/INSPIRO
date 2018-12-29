@@ -2,8 +2,8 @@
 Python + Gnuplot script to draw cycloids where one circle moves on the perimeter of another one
 
 # Install
-It requires Python2 and libraries numpy and [PyGnuplot](https://pypi.org/project/PyGnuplot/#description)
-Drawing is done with [Gnuplot](http://www.gnuplot.info/)
+It requires Python2 plus libraries numpy and [PyGnuplot](https://pypi.org/project/PyGnuplot/#description).
+Drawing is done with [Gnuplot](http://www.gnuplot.info/).
 
 # Configure
  - Radius of the big circle
@@ -40,9 +40,11 @@ small_radius_draw_point = [ (40.0, 20.0, 1,  '0100'),
 ```
 
 # Run it 
-./inspiro.py
+`./inspiro.py`
 
-and check the images in `Images` directory. Delete intermediary files in `Temp` directory.
+and check the images in `Images` directory. Delete intermediary files in the `Temp` directory.
 
 `rm -rf Temp/*dat`
+
+Enjoy!
 
