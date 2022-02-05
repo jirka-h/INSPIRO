@@ -1,5 +1,9 @@
 # INSPIRO
-Python + Gnuplot script to draw cycloids where one circle moves on the perimeter of another one
+Python + Gnuplot script to draw cycloids where one circle moves on the perimeter of another one.
+
+It's inspired by (Spirograph)[https://en.wikipedia.org/wiki/Spirograph] and it's clone from the former Czechoslovakia called (INSPIRO)[https://www.zatrolene-hry.cz/spolecenska-hra/inspiro-7995/obrazky/]
+
+![Example output](images/9.png)
 
 # Install
 It requires Python2 plus libraries numpy and [PyGnuplot](https://pypi.org/project/PyGnuplot/#description).
