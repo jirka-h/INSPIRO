@@ -3,6 +3,8 @@ Python + Gnuplot script to draw cycloids where one circle moves on the perimeter
 
 It's inspired by [Spirograph](https://en.wikipedia.org/wiki/Spirograph) and it's clone from the former Czechoslovakia called [INSPIRO.](https://www.zatrolene-hry.cz/spolecenska-hra/inspiro-7995/obrazky/)
 
+See also this [interactive spirographer](https://mitchellwarr.github.io/spirographer/).
+
 ![Example output](Images/9.png)
 
 # Install
